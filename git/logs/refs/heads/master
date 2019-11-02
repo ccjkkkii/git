@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 f6cebbc60224bed89e4443dd69a8f770bc75e837 Zero Byte <gurunath.g@tcs.com> 1571556777 +0530	clone: from https://github.com/laravel/quickstart-basic.git
+f6cebbc60224bed89e4443dd69a8f770bc75e837 33980e20937bac15c4eef112ca8601a0782e7c45 Zero Byte <gurunath.g@tcs.com> 1571556865 +0530	commit: Adding AWS Integration
+33980e20937bac15c4eef112ca8601a0782e7c45 4811ffceb41951f069ee005043c5c7db3357bc50 Zero Byte <gurunath.g@tcs.com> 1571556979 +0530	commit: Oops. Removing AWS key
+4811ffceb41951f069ee005043c5c7db3357bc50 8a0ea9b608166dd2e97f86e58b0d553a14bfe777 Zero Byte <gurunath.g@tcs.com> 1571557093 +0530	commit: Welcome Title change
